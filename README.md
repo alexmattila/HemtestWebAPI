@@ -1,7 +1,7 @@
 # HemtestWebAPI
 Jag använde mig av Visual Studio för att bygga projektet tillsammans med ASP.NET workload.
 
-Så först för att börja så starta projektet i Visual Studio med ASP.NET workload installerat
+Så först för att börja så klona projektet och starta det i Visual Studio med ASP.NET workload installerat
 efter det är gjort och fungerar så starta genom att trycka F5 eller gröna pilen uppe till vänster.
 
 Då kommer en webbläsare att uppnas med Swagger tools som jag använde mig av där man kan skicka en post.
